@@ -1,0 +1,9 @@
+Check how mych your GPU can handle
+
+https://rahulschand.github.io/gpu_poor/
+https://github.com/RahulSChand/gpu_poor/?tab=readme-ov-file
+
+
+EchoPrompt paper
+https://arxiv.org/pdf/2309.10687
+
