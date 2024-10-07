@@ -7,3 +7,5 @@ https://github.com/RahulSChand/gpu_poor/?tab=readme-ov-file
 EchoPrompt paper
 https://arxiv.org/pdf/2309.10687
 
+
+https://github.com/stas00/ml-engineering
